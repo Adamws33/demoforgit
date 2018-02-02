@@ -1,5 +1,1 @@
-console.log("HEY THIS IS GITHUB!");
-
-function(){
-  console.log("hello world")
-};
+let me = "i am me what!"
